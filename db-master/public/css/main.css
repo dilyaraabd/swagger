@@ -1,0 +1,9 @@
+body {
+    background: #2c2c2c !important;
+}
+.card-img {
+    background: url(https://sun9-47.userapi.com/s/v1/if2/V8Li4j6ZsQw_ImQAKuyDMYQ_MBWL9fNJ66emsAUu_HGVviiOjneAz05pWx5FAT0aDFEZmSk_ObQcjY-oEvYumHHR.jpg?size=2560x1495&quality=95&type=album);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
